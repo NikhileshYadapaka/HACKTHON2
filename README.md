@@ -1,4 +1,3 @@
-# HACKTHON2
 # Airline Profit Prediction Model
 
 ## Overview
